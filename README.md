@@ -1,4 +1,49 @@
-### Hi there 👋
+## Hi there everyone!! 👋
+
+[Portfolio]() | [LinkedIn]() | [Resume]()
+
+## Languages
+
+<div align="center">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467729-29a85f67-fbae-43c8-9f55-d512f7a32be7.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467773-fe00c428-4a08-4c25-a604-5ad17ed8c663.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467754-8f115c20-6fd9-49d1-8797-5305ac56782d.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467747-80e95ea4-68a8-43c0-8337-9b3c62876560.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467740-a3b1d7ca-8a7c-4fb8-be7c-49bb4d352660.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190467761-0eb74a47-47d7-40ee-bb60-fa873058560b.png" hspace="15px" vspace"15px">
+</div>
+
+## Frameworks and Libraries
+
+<div align="center">
+<img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" height="50px" hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/355190/reactjs.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="50px hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/374002/prisma.svg" height="50px" hspace="15px" vspace"15px">
+</div>
+
+## Tools and Tech
+
+<div align="center">
+<img src="https://www.svgrepo.com/show/373623/git.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://www.svgrepo.com/show/312259/github.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="50px" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190470261-ec3c7a1e-a41b-4467-ac98-38359150d538.png" hspace="15px" vspace"15px">
+<img width="50px" src="https://user-images.githubusercontent.com/88571833/190470271-6cf0ce7a-777d-4157-9e65-7acc2f2989a3.png" hspace="15px" vspace"15px">
+</div>
+
+## Featured Repos
+
+## Get in touch
+
+<div align="center">
+<a href="https://www.linkedin.com/in/satvik-s-nayak-616b6121b/"><img src="https://user-images.githubusercontent.com/88571833/190472030-46ae5f99-120e-4668-ae13-56a284bfcf04.png" width="35px" hspace="15px" vspace="15px"></a>
+<a href="mailto:nayaksatvik02@gmail.com"><img src="https://user-images.githubusercontent.com/88571833/190472016-1b11529b-c449-489e-b45c-9edd0bfb3c31.png" width="35px" hspace="15px" vspace="15px"></a>
+<a href="https://instagram.com/_static.n"><img src="https://user-images.githubusercontent.com/88571833/190472022-e5f73f52-a458-4ce7-b7ce-3063b0012b65.png" width="35px" hspace="15px" vspace="15px"></a>
+<a href="https://www.discord.com/users/Satvik#3243"><img src="https://user-images.githubusercontent.com/88571833/190472004-61e18842-f076-4a1d-bc87-d53fa372b4a1.png" width="35px" hspace="15px" vspace="15px"></a>
+</div>
 
 <!--
 **satviknayak/satviknayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
