@@ -2,6 +2,8 @@
 
 [Portfolio]() | [LinkedIn]() | [Resume]()
 
+Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. Skilled in C++, Python and, Java. Proficient in building frontend from scratch and Django framework in backend. Creative and a supportive team player with a curious and problem solving mindset. Currently, I am pursuing 2nd year of Bachelor of Engineering in Computer Science from N.M.A.M.I.T.
+
 ## Languages
 
 <div align="center">
@@ -22,6 +24,10 @@
 <img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="50px" hspace="15px" vspace"15px">
 <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="50px" hspace="15px" vspace"15px">
 <img src="https://www.svgrepo.com/show/374002/prisma.svg" height="50px" hspace="15px" vspace"15px">
+<img src="https://user-images.githubusercontent.com/88571833/190920220-ca42a578-606c-4e81-9870-391355258c15.png" height="50px" hspace="15px" vspace"15px">
+<img src="https://user-images.githubusercontent.com/88571833/190920216-3dbc9017-d0fe-4f35-a1ba-c53bd124abdb.png" height="50px" hspace="15px" vspace"15px">
+<img src="https://user-images.githubusercontent.com/88571833/190920483-18f7850e-c01f-455a-bb87-29e054d063f1.png" height="50px" hspace="15px" vspace"15px">
+<img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50px" hspace="15px" vspace"15px"
 </div>
 
 ## Tools and Tech
