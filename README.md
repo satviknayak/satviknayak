@@ -1,8 +1,10 @@
 ## Hi there everyone!! 👋
 
-[Portfolio]() | [LinkedIn]() | [Resume]()
+[Portfolio]() | [LinkedIn](https://www.linkedin.com/in/satvik-s-nayak-616b6121b/) | [Resume]()
 
 Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. Skilled in C++, Python and, Java. Proficient in building frontend from scratch and Django framework in backend. Creative and a supportive team player with a curious and problem solving mindset. Currently, I am pursuing 2nd year of Bachelor of Engineering in Computer Science from N.M.A.M.I.T.
+
+<div align="center">
 
 ## Languages
 
@@ -27,7 +29,7 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 <img src="https://user-images.githubusercontent.com/88571833/190920220-ca42a578-606c-4e81-9870-391355258c15.png" height="50px" hspace="15px" vspace"15px">
 <img src="https://user-images.githubusercontent.com/88571833/190920216-3dbc9017-d0fe-4f35-a1ba-c53bd124abdb.png" height="50px" hspace="15px" vspace"15px">
 <img src="https://user-images.githubusercontent.com/88571833/190920483-18f7850e-c01f-455a-bb87-29e054d063f1.png" height="50px" hspace="15px" vspace"15px">
-<img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50px" hspace="15px" vspace"15px"
+<img src="https://user-images.githubusercontent.com/88571833/190920486-b3bdd188-056d-4cbc-9bcc-4e7b6254df74.png" height="50px" hspace="15px" vspace"15px">
 </div>
 
 ## Tools and Tech
@@ -56,6 +58,8 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 <a href="mailto:nayaksatvik02@gmail.com"><img src="https://user-images.githubusercontent.com/88571833/190472016-1b11529b-c449-489e-b45c-9edd0bfb3c31.png" width="35px" hspace="15px" vspace="15px"></a>
 <a href="https://instagram.com/_static.n"><img src="https://user-images.githubusercontent.com/88571833/190472022-e5f73f52-a458-4ce7-b7ce-3063b0012b65.png" width="35px" hspace="15px" vspace="15px"></a>
 <a href="https://www.discord.com/users/Satvik#3243"><img src="https://user-images.githubusercontent.com/88571833/190472004-61e18842-f076-4a1d-bc87-d53fa372b4a1.png" width="35px" hspace="15px" vspace="15px"></a>
+</div>
+
 </div>
 
 <!--
