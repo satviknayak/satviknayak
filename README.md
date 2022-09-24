@@ -40,7 +40,14 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 <img width="50px" src="https://user-images.githubusercontent.com/88571833/190470271-6cf0ce7a-777d-4157-9e65-7acc2f2989a3.png" hspace="15px" vspace"15px">
 </div>
 
+## Github Stats
+[![Satvik S Nayak Github Stats](https://github-readme-stats.vercel.app/api?username=satviknayak&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satviknayak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Featured Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Get in touch
 
