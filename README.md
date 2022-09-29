@@ -47,9 +47,9 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satviknayak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Featured Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/satviknayak/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/satviknayak/Next-Trek)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/satviknayak/SCL-2022-AlphaByte)
 
 ## Get in touch
 
