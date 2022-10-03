@@ -48,7 +48,7 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 
 ## Featured Repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/satviknayak/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/satviknayak/Next-Trek)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=MozReviews&theme=dracula)](https://github.com/satviknayak/MozReviews)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/satviknayak/SCL-2022-AlphaByte)
 
 ## Get in touch
