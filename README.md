@@ -1,6 +1,6 @@
 ## Hi there everyone!! 👋
 
-[Portfolio]() | [LinkedIn](https://www.linkedin.com/in/satvik-s-nayak-616b6121b/) | [Resume]()
+[Portfolio](satviknayak.vercel.app) | [LinkedIn](https://www.linkedin.com/in/satvik-s-nayak-616b6121b/) | [Resume](https://drive.google.com/file/d/1fgFFWb4_d2z1O7YJ41qWJqraepIZepAw/view?usp=sharing)
 
 Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. Skilled in C++, Python and, Java. Proficient in building frontend from scratch and Django framework in backend. Creative and a supportive team player with a curious and problem solving mindset. Currently, I am pursuing 2nd year of Bachelor of Engineering in Computer Science from N.M.A.M.I.T.
 
