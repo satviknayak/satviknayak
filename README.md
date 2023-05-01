@@ -2,7 +2,7 @@
 
 [Portfolio](https://satviknayak.vercel.app) | [LinkedIn](https://www.linkedin.com/in/satvik-s-nayak-616b6121b/) | [Resume](https://drive.google.com/file/d/1fgFFWb4_d2z1O7YJ41qWJqraepIZepAw/view?usp=sharing)
 
-Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. Skilled in C++, Python and, Java. Proficient in building frontend from scratch and Django framework in backend. Creative and a supportive team player with a curious and problem solving mindset. Currently, I am pursuing 2nd year of Bachelor of Engineering in Computer Science from N.M.A.M.I.T.
+Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. Skilled in C++, Python and, Java. Proficient in building frontend from scratch and Django framework in backend. Creative and a supportive team player with a curious and problem solving mindset. Currently, I am pursuing 3rd year of Bachelor of Engineering in Computer Science from N.M.A.M.I.T.
 
 <div align="center">
 
@@ -43,14 +43,15 @@ Enthusiastic and Self-driven Frontend Web developer based in Karnataka, India. S
 </div>
 
 ## Github Stats
-[![Satvik S Nayak Github Stats](https://github-readme-stats.vercel.app/api?username=satviknayak&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satviknayak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Satvik S Nayak Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=satviknayak&show_icons=true&theme=dracula)](https://github.com/satviknayak/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satviknayak&layout=compact)](https://github.com/satviknayak/github-readme-stats)
+
 
 ## Featured Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/satviknayak/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/satviknayak/Next-Trek)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=MovieUtopia&theme=dracula)](https://github.com/satviknayak/MovieUtopia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/satviknayak/SCL-2022-AlphaByte)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=satviknayak&repo=portfolio&theme=dracula)](https://github.com/satviknayak/portfolio)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=satviknayak&repo=Next-Trek&theme=dracula)](https://github.com/satviknayak/Next-Trek)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=satviknayak&repo=MovieUtopia&theme=dracula)](https://github.com/satviknayak/MovieUtopia)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=satviknayak&repo=SCL-2022-AlphaByte&theme=dracula)](https://github.com/satviknayak/SCL-2022-AlphaByte)
 
 ## Get in touch
 
